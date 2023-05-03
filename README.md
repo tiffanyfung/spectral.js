@@ -1,6 +1,7 @@
 ![logo](/images/logo.png)
 # Spectral.js
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/onedayofcrypto.svg?style=social&label=Follow%20%40onedayofcrypto)](https://twitter.com/bukotsunikki)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/onedayofcrypto.svg?style=social&label=Follow%20%40onedayofcrypto)](https://twitter.com/bukotsunikki)[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftiffanyfung%2Fspectral.js.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftiffanyfung%2Fspectral.js?ref=badge_shield)
+
 
 Spectral.js is a powerful and versatile JavaScript library designed to deliver realistic color mixing in your web-based projects. By harnessing the power of the Kubelka-Munk theory, a robust scientific model that simulates light interaction with paint for true-to-life color mixing, Spectral.js ensures that your projects exhibit vibrant and authentic colors.
 
@@ -95,6 +96,9 @@ If you like this project and want me to keep working on it or appreciate the wor
 
 ## License
 Spectral.js is released under the MIT License. See the LICENSE file for details.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftiffanyfung%2Fspectral.js.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftiffanyfung%2Fspectral.js?ref=badge_large)
 
 ## Acknowledgments
 - Spectral.js is based on the Kubelka-Munk theory, which was developed by the chemists Richard S. Kubelka and Franz Munk in the 1930s.
